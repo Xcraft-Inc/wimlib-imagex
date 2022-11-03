@@ -1,6 +1,6 @@
 {
   "name": "wimlib-imagex",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -18,6 +18,11 @@
   "homepage": "https://github.com/Xcraft-Inc/wimlib-imagex#readme",
   "prettier": "xcraft-dev-prettier",
   "dependencies": {
+    "gigawatts": "^4.0.5",
+    "xcraft-core-process": "^1.7.0",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
     "xcraft-dev-rules": "^3.1.0"
   }
 }
