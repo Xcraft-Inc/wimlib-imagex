@@ -1,0 +1,23 @@
+{
+  "name": "wimlib-imagex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xcraft-Inc/wimlib-imagex.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Xcraft-Inc/wimlib-imagex/issues"
+  },
+  "homepage": "https://github.com/Xcraft-Inc/wimlib-imagex#readme",
+  "prettier": "xcraft-dev-prettier",
+  "dependencies": {
+    "xcraft-dev-rules": "^3.1.0"
+  }
+}
